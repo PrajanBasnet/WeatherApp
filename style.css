@@ -17,3 +17,6 @@ body{
 #city{
     border-radius: 30px ;
 }
+.weatherIcon{
+    font-size: larger;
+}
