@@ -1,0 +1,19 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #eee  ;
+}
+
+.weatherInfo{
+    top:50%;
+    bottom: 50%;
+    margin-left: 40%;
+    box-shadow: 0 0 15px #383838;
+    width: 228px;
+    height: 228px;
+    padding: 36px;
+    border-radius: 6px;
+    background-color: #fff;
+}
+#city{
+    border-radius: 30px ;
+}
